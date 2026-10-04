@@ -30,7 +30,7 @@
 ### 🖿 Project structure
 
 ```
-framezoom/
+FrameZoom/
 ├── Assets/
 │   ├── alita-battle-angel.jpg
 ├── index.html
