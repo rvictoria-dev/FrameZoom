@@ -31,7 +31,7 @@
 
 ```
 FrameZoom/
-├── Assets/
+├── assets/
 │   ├── alita-battle-angel.jpg
 ├── index.html
 ├── style.css
